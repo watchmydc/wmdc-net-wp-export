@@ -231,44 +231,51 @@ body.blog.ast-header-break-point .main-header-bar {
 </script>
 
 <style>
-/* Force dark background behind header on blog page */
-body.blog header#masthead,
-body.blog .ast-site-header {
+/* Header styles */
+header#masthead,
+.ast-site-header {
     background-color: #000 !important;
     position: relative !important;
     z-index: 10 !important;
 }
 
-/* Force white menu text */
-body.blog .main-header-menu > li > a {
+.main-header-menu > li > a {
     color: #fff !important;
     padding: 5px 15px;
 }
 
-/* Mobile header background */
-body.blog .ast-mobile-header-wrap {
+.ast-mobile-header-wrap {
     background-color: #000 !important;
 }
 
-/* Optional: If transparent header is enabled, make it solid */
-body.blog.ast-header-break-point .main-header-bar {
+.ast-header-break-point .main-header-bar {
     background-color: #000 !important;
 }
 
-/* Fix UAGB image block stretching on each article banner */
-/*.wp-block-uagb-image .wp-block-uagb-image__figure img {
-    width: 100% !important;
-    height: auto !important;
-    object-fit: contain !important;
-}*/
-/* Fix stretching of UAGB banner images on all articles */
+/* Banner image fix */
 img[class^="uag-image-"] {
     width: 100% !important;
     height: auto !important;
     object-fit: contain !important;
     display: block;
     max-width: 100%;
-	}
+}
+
+/* Submenu text color fix */
+.ast-desktop .main-header-menu .sub-menu a {
+    color: #000 !important;
+    background-color: #fff !important;
+}
+
+.ast-desktop .main-header-menu .sub-menu a:hover {
+    background-color: #f0f0f0 !important;
+    color: #000 !important;
+}
+
+.ast-desktop .main-header-menu .sub-menu a:focus {
+    background-color: #eaeaea !important;
+    color: #000 !important;
+}
 </style>
 </head>
 
