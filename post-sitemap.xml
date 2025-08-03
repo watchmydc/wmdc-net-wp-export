@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/blog/</loc>
-		<lastmod>2025-07-31T19:10:21+00:00</lastmod>
+		<lastmod>2025-08-03T08:58:27+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/wireless-router-for-industrial-use-guide/</loc>
@@ -1007,6 +1007,126 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/07/0406-1-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/prevent-lateral-movement-threatlocker/</loc>
+		<lastmod>2025-08-01T07:08:14+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/5-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0501-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0502-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0503-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0504-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0505-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0506-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/log-network-activity-applications-threatlocker/</loc>
+		<lastmod>2025-08-02T19:01:24+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/6-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0601-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0602-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/block-applications-file-shares-threatlocker/</loc>
+		<lastmod>2025-08-03T08:01:02+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/7-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0701-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0702-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0703-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0704-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0705-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/allow-internet-only-access-apps-threatlocker/</loc>
+		<lastmod>2025-08-03T08:37:04+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/8-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0701-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0802-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0803-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0804-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0805-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0806-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/prevent-applications-launching-other-apps-threatlocker/</loc>
+		<lastmod>2025-08-03T08:49:16+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/9-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0701-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0902-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0903-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0904-1-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0905-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/audit-ringfencing-activity-threatlocker/</loc>
+		<lastmod>2025-08-03T08:58:27+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/10-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/1001-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/1002-1024x576.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
