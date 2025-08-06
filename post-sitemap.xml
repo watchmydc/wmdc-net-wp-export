@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/blog/</loc>
-		<lastmod>2025-08-06T10:23:18+00:00</lastmod>
+		<lastmod>2025-08-06T22:08:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/wireless-router-for-industrial-use-guide/</loc>
@@ -1206,6 +1206,92 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/08/0404-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/log-elevated-activity-threatlocker/</loc>
+		<lastmod>2025-08-06T21:02:55+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/5-1-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0501-1-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0502-1-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/deny-elevation-specific-processes-threatlocker/</loc>
+		<lastmod>2025-08-06T21:25:57+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/6-1-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0601-1-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0602-1-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0603-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0604-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/time-limited-elevation-policies-threatlocker/</loc>
+		<lastmod>2025-08-06T21:42:53+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/7-2-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0701-1-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0602-1-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0703-1-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0704-1-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/request-elevation-approval-user-threatlocker/</loc>
+		<lastmod>2025-08-06T21:57:04+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/8-1-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0901-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0902-1-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0903-1-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0904-2-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/revoke-elevation-access-threatlocker/</loc>
+		<lastmod>2025-08-06T22:08:42+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/9-1-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/1001-1-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/1002-1-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/1003-1024x576.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
