@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/blog/</loc>
-		<lastmod>2025-08-06T22:08:42+00:00</lastmod>
+		<lastmod>2025-08-08T18:43:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/wireless-router-for-industrial-use-guide/</loc>
@@ -1292,6 +1292,51 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/08/1003-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/view-current-policy-status-threatlocker/</loc>
+		<lastmod>2025-08-08T17:41:49+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/1-1-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0101-1-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0102-1-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0103-1-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/audit-existing-policies-threatlocker/</loc>
+		<lastmod>2025-08-08T18:28:55+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/2-1-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0201-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0202-1-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/prioritize-policies-threatlocker/</loc>
+		<lastmod>2025-08-08T18:43:50+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/3-1-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0301-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0302-1-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0303-1-1024x576.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
