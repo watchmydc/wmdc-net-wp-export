@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/blog/</loc>
-		<lastmod>2025-08-09T21:03:13+00:00</lastmod>
+		<lastmod>2025-08-10T15:37:26+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/wireless-router-for-industrial-use-guide/</loc>
@@ -1469,6 +1469,60 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/08/0907-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/how-to-add-a-new-user-in-threatlocker/</loc>
+		<lastmod>2025-08-10T08:22:29+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/1-2-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0101-2-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0102-2-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0103-2-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0104-1-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0105-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0906-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0106-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/invite-user-via-email-threatlocker/</loc>
+		<lastmod>2025-08-10T15:27:18+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/2-2-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0201-1-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0202-2-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/create-user-role-threatlocker/</loc>
+		<lastmod>2025-08-10T15:37:26+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/3-2-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0301-1-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0302-2-1024x576.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
