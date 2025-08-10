@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/blog/</loc>
-		<lastmod>2025-08-10T15:37:26+00:00</lastmod>
+		<lastmod>2025-08-10T21:22:12+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/wireless-router-for-industrial-use-guide/</loc>
@@ -1523,6 +1523,108 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/08/0302-2-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/assign-permissions-user-role-threatlocker/</loc>
+		<lastmod>2025-08-10T16:05:49+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/4-2-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0401-2-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0402-2-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/manage-device-groups-threatlocker/</loc>
+		<lastmod>2025-08-10T16:22:53+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/5-3-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0501-3-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0502-3-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0503-2-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0504-2-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0505-2-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0506-3-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/rename-devices-threatlocker/</loc>
+		<lastmod>2025-08-10T16:35:04+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/6-3-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0601-3-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0602-3-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0603-2-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/add-note-to-device-threatlocker/</loc>
+		<lastmod>2025-08-10T16:43:51+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/7-4-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0701-3-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0702-3-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0703-2-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/restart-agent-device-threatlocker/</loc>
+		<lastmod>2025-08-10T21:01:41+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/8-3-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0801-2-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0802-2-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0803-2-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/move-devices-between-groups-threatlocker/</loc>
+		<lastmod>2025-08-10T21:22:12+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/9-3-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0901-2-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0903-3-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0904-4-1024x576.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
