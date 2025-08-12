@@ -9,42 +9,42 @@
 
 <url>
   <loc>https://watchmydc.net/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/privacy-policy/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/threatlocker-zero-trust-security/</loc>
-  <lastmod>2025-08-10T21:36:17+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/teltonika-networks-industrial-routers-and-switches/</loc>
-  <lastmod>2025-08-10T21:36:17+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/zabbix-monitoring-deployment-support/</loc>
-  <lastmod>2025-08-10T21:36:24+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/blog/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/threatlocker-how-to-guides/</loc>
-  <lastmod>2025-08-10T21:36:17+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/contact/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -54,503 +54,528 @@
 </url>
 <url>
   <loc>https://watchmydc.net/2025/08/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/2025/07/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/2025/06/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/2025/05/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://watchmydc.net/view-blocked-application-attempts-threatlocker/</loc>
+  <lastmod>2025-08-11T20:13:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://watchmydc.net/manage-organizations-child-threatlocker/</loc>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://watchmydc.net/create-computer-group-threatlocker/</loc>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://watchmydc.net/monitor-user-activity-threatlocker/</loc>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/move-devices-between-groups-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/restart-agent-device-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/add-note-to-device-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/rename-devices-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/manage-device-groups-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/assign-permissions-user-role-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://watchmydc.net/create-user-role-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://watchmydc.net/invite-user-via-email-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://watchmydc.net/how-to-add-a-new-user-in-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://watchmydc.net/tag-policy-use-in-rule-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/blog/page/2/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://watchmydc.net/blog/page/9/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <loc>https://watchmydc.net/blog/page/10/</loc>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/small-business-network-security-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/is-a-vpn-zero-trust/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/how-to-install-the-threatlocker-windows-agent/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/how-to-install-the-threatlocker-agent-on-linux/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/silent-installation-threatlocker-agent/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/deploy-agent-using-group-policy-gpo/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/uninstall-threatlocker-agent/</loc>
-  <lastmod>2025-08-10T21:36:17+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/update-threatlocker-agent/</loc>
-  <lastmod>2025-08-10T21:36:17+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/verify-threatlocker-agent-installation/</loc>
-  <lastmod>2025-08-10T21:36:17+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/install-threatlocker-remote-workstation/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/deploy-atera-agent/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/deploy-threatlocker-using-rmm-tool/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/enable-application-control-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/create-threatlocker-application-policy/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/approve-blocked-application-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/block-specific-application-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/create-policy-single-user/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/create-policy-user-group/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/whitelist-executable-file/</loc>
-  <lastmod>2025-08-10T21:36:17+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/deny-software-based-on-publisher/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/allow-software-by-path/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/use-ringfencing-for-applications/</loc>
-  <lastmod>2025-08-10T21:36:17+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/modify-application-allow-deny-policies-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/apply-temporary-application-policies/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/manage-scheduled-policy-activations-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/apply-policies-by-device-group/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/use-threatlocker-suggested-policies/</loc>
-  <lastmod>2025-08-10T21:36:17+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/enable-learning-mode-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/configure-duration-learning-mode/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/review-events-during-learning-mode/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/convert-learning-events-to-policies/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/end-learning-mode-manually/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/enable-usb-control-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/block-usb-storage-devices-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/whitelist-usb-devices-serial-number-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:17+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/block-external-hard-drives-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/storage-policies-specific-users-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/log-usb-device-activity-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/enforce-encryption-removable-storage-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/monitor-file-copy-activity-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/restrict-read-write-external-drives-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/enable-network-ringfencing-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/isolate-application-network-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/allow-network-access-application-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/ringfence-microsoft-office-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/prevent-lateral-movement-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/log-network-activity-applications-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/block-applications-file-shares-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/allow-internet-only-access-apps-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/prevent-applications-launching-other-apps-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/audit-ringfencing-activity-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/enable-elevation-control-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/allow-application-admin-rights-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/restrict-elevated-access-users-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/create-elevation-policies-installers-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/log-elevated-activity-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/deny-elevation-specific-processes-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/time-limited-elevation-policies-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:17+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/request-elevation-approval-user-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/revoke-elevation-access-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/view-current-policy-status-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:17+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/audit-existing-policies-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/prioritize-policies-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/create-policy-groups-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/assign-policies-by-department-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/clone-existing-policy-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/disable-policy-temporarily-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/delete-policy-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://watchmydc.net/tag-policy-use-in-rule-threatlocker/</loc>
+  <lastmod>2025-08-11T20:13:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://watchmydc.net/invite-user-via-email-threatlocker/</loc>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://watchmydc.net/create-user-role-threatlocker/</loc>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/teltonika-rut241-4g-esim-router/</loc>
-  <lastmod>2025-08-10T21:36:17+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/teltonika-rutm30-industrial-router/</loc>
-  <lastmod>2025-08-10T21:36:17+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/wireless-router-for-industrial-use-guide/</loc>
-  <lastmod>2025-08-10T21:36:17+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/industrial-router-manufacturers/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/what-routers-do-business-use/</loc>
-  <lastmod>2025-08-10T21:36:17+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/industrial-routers-vs-home-routers/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/what-is-an-industrial-router/</loc>
-  <lastmod>2025-08-10T21:36:17+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/how-to-allow-specific-usb-devices-in-threatlocker/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/create-elevation-policy/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/author/watchmydc/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://watchmydc.net/how-to-add-a-new-user-in-threatlocker/</loc>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/blog/page/3/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://watchmydc.net/blog/page/8/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <loc>https://watchmydc.net/blog/page/9/</loc>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/blog/page/4/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://watchmydc.net/blog/page/7/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <loc>https://watchmydc.net/blog/page/8/</loc>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/blog/page/5/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://watchmydc.net/blog/page/7/</loc>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
   <priority>0.33</priority>
 </url>
 <url>
   <loc>https://watchmydc.net/blog/page/6/</loc>
-  <lastmod>2025-08-10T21:36:16+00:00</lastmod>
-  <priority>0.33</priority>
+  <lastmod>2025-08-11T20:13:33+00:00</lastmod>
+  <priority>0.26</priority>
 </url>
 
 
