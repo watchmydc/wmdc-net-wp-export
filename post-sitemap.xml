@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/blog/</loc>
-		<lastmod>2025-08-11T20:04:12+00:00</lastmod>
+		<lastmod>2025-08-12T18:31:08+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/wireless-router-for-industrial-use-guide/</loc>
@@ -1698,6 +1698,99 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/08/0102-3-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/export-event-logs-threatlocker/</loc>
+		<lastmod>2025-08-12T17:38:10+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/2-3-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0201-2-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0202-3-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0203-1-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/generate-usage-reports-threatlocker/</loc>
+		<lastmod>2025-08-12T17:49:49+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/3-3-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0301-2-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0302-3-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0303-2-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0304-1-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/review-audit-logs-threatlocker/</loc>
+		<lastmod>2025-08-12T18:00:28+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/4-3-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0401-3-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0402-3-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/set-up-alert-notifications-threatlocker/</loc>
+		<lastmod>2025-08-12T18:11:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/5-4-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0501-4-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0502-4-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/use-threatlocker-dashboard/</loc>
+		<lastmod>2025-08-12T18:22:41+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/6-4-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0601-4-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0602-4-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0603-3-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0604-2-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/filter-logs-user-application-threatlocker/</loc>
+		<lastmod>2025-08-12T18:31:08+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/7-5-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0701-4-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0702-4-1024x576.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
