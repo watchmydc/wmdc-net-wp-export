@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/blog/</loc>
-		<lastmod>2025-08-12T18:31:08+00:00</lastmod>
+		<lastmod>2025-08-13T18:29:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/wireless-router-for-industrial-use-guide/</loc>
@@ -1791,6 +1791,54 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/08/0702-4-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/monitor-usb-device-usage-threatlocker/</loc>
+		<lastmod>2025-08-13T18:00:33+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/8-4-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0901-3-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0902-4-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0903-4-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/investigate-policy-violations-threatlocker/</loc>
+		<lastmod>2025-08-13T18:09:51+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/8-4-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/1001-3-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/1002-3-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/troubleshoot-agent-connection-issues-threatlocker/</loc>
+		<lastmod>2025-08-13T18:29:42+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/1-4-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0101-4-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0102-4-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0103-3-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0104-2-1024x576.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
