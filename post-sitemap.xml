@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/blog/</loc>
-		<lastmod>2025-08-21T19:55:46+00:00</lastmod>
+		<lastmod>2025-08-28T18:56:22+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/wireless-router-for-industrial-use-guide/</loc>
@@ -1472,34 +1472,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/how-to-add-a-new-user-in-threatlocker/</loc>
-		<lastmod>2025-08-10T08:22:29+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/1-2-1024x411.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/0101-2-1024x576.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/0102-2-1024x576.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/0103-2-1024x576.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/0104-1-1024x576.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/0105-1024x576.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/0906-1024x576.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/08/0106-1024x576.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/invite-user-via-email-threatlocker/</loc>
 		<lastmod>2025-08-10T15:27:18+00:00</lastmod>
 		<image:image>
@@ -1941,6 +1913,167 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/08/1003-1-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/integrate-threatlocker-microsoft-365/</loc>
+		<lastmod>2025-08-26T19:29:28+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/1-5-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0101-5-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0102-5-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0103-4-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0104-3-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0105-1-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0106-1-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0107-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0108-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0109-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0110-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0111-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0112-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0113-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/integrate-splunk-threatlocker/</loc>
+		<lastmod>2025-08-26T21:16:11+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/2-5-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0401-5-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0402-5-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0403-3-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0404-2-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0405-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0406-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0407-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0408-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0409-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0410-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0411-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0412-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0413-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/use-threatlocker-api/</loc>
+		<lastmod>2025-08-28T07:29:58+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/3-5-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0601-6-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0602-7-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0603-5-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0604-3-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/configure-threatlocker-sso-azure-ad/</loc>
+		<lastmod>2025-08-28T18:51:32+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/4-5-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0701-6-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0702-6-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0703-4-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0704-3-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0705-2-1024x576.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/add-new-user-threatlocker/</loc>
+		<lastmod>2025-08-28T18:56:22+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/1-2-1024x411.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0101-2-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0102-2-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0103-2-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0104-1-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0105-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0906-1024x576.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/08/0106-1024x576.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
